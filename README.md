@@ -70,7 +70,7 @@
     <li><a href="https://github.com/Mirko1523/Juego-Adivinanza.git">Juego adivinanza</a> - Divertido juego donde tendras que adivinar un numero del 1 al 100 con infinitos intentos.</li>
 </ol>
 
-<hr width="60%">
+<hr width="100%">
 
 <br><br>
 <h3 align="left"> 🤝 Contacta conmigo:</h3>
