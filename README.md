@@ -73,8 +73,10 @@
 <hr width="100%">
 <p align="left">
   <a href="https://portafoliomilermirko.netlify.app/" target="_blank">
-    <img align="center" src="[https://cdn-icons-png.freepik.com/512/4453/4453220.png]" alt="anirudh-rai-072732220" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.freepik.com/512/4453/4453220.png" alt="Portfolio" height="30" width="40" />
   </a>
+</p>
+
 <hr width="100%">
 
 <br><br>
