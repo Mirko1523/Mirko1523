@@ -73,9 +73,10 @@
 <hr width="100%">
 <p align="left">
   <a href="https://portafoliomilermirko.netlify.app/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/992/992661.png" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/992/992650.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
+
 
 
 <hr width="100%">
