@@ -71,12 +71,13 @@
 </ol>
 <br><br>
 <hr width="100%">
-<p align="left">
-<h3 align="left"> 📁 Portafolio:</h3>
+<div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
+  <h3 style="font-size: 20px; color: #333333;">📁 Portafolio:</h3>
   <a href="https://portafoliomilermirko.netlify.app/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.freepik.com/512/4453/4453220.png" alt="Portfolio" height="35" width="45" />
+    <img src="https://cdn-icons-png.freepik.com/512/4453/4453220.png" alt="Portfolio" height="40" style="border-radius: 5px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);" />
   </a>
-</p>
+</div>
+
 
 
 
