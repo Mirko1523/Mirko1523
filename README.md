@@ -70,6 +70,10 @@
     <li><a href="https://github.com/Mirko1523/Juego-Adivinanza.git">Juego adivinanza</a> - Divertido juego donde tendras que adivinar un numero del 1 al 100 con infinitos intentos.</li>
 </ol>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mirko-miler-290bb3295/](https://portafoliomilermirko.netlify.app/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
+  </a>
 <hr width="100%">
 
 <br><br>
