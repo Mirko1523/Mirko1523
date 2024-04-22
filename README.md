@@ -41,9 +41,9 @@
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-    </a>
+    </a> -->
 </p>
 <hr width="100%">
 <br><br><br>
