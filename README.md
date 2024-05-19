@@ -41,9 +41,7 @@
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>
-<!--     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-    </a> -->
+
 </p>
 <hr width="100%">
 <br><br><br>
@@ -68,6 +66,8 @@
     <li><a href="https://github.com/Mirko1523/Proyecto-Individual-dogs.git">Proyecto Dogs</a> - Explora el maravilloso mundo de los perros en este proyecto emocionante.</li>
     <li><a href="https://github.com/Mirko1523/Calculadora.git">Calculadora</a> - Calculadora que realiza todo tipo de calculos .</li>
     <li><a href="https://github.com/Mirko1523/Juego-Adivinanza.git">Juego adivinanza</a> - Divertido juego donde tendras que adivinar un numero del 1 al 100 con infinitos intentos.</li>
+    <li><a href="https://github.com/Mirko1523/Weather">Clima</a> - Aplicación donde podras buscar el clima de tu ciudad o país.</li>
+    <li><a href="https://github.com/Mirko1523/Proyect-Movies">Rating de peliculas</a> - Encuentra la opinión de los expertos de tus peliculas favoritas.</li>
 </ol>
 <br><br>
 <hr width="100%">
@@ -105,7 +105,7 @@
 
 [Mirko1523](https://github.com/Mirko1523)
 
-Ultima edicion: 20/04/2024
+Ultima edicion: 19/05/2024
 
 
 
