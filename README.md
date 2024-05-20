@@ -32,9 +32,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://avatars.githubusercontent.com/u/3591786?s=280&v=4" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/3591786?s=280&v=4" alt="Sequelize" width="40" height="40"/>
     </a>
