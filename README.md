@@ -32,9 +32,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
-<!--     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a> -->
     <a href="https://avatars.githubusercontent.com/u/3591786?s=280&v=4" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/3591786?s=280&v=4" alt="Sequelize" width="40" height="40"/>
     </a>
@@ -68,6 +65,7 @@
     <li><a href="https://github.com/Mirko1523/Juego-Adivinanza.git">Juego adivinanza</a> - Divertido juego donde tendras que adivinar un numero del 1 al 100 con infinitos intentos.</li>
     <li><a href="https://github.com/Mirko1523/Weather">Clima</a> - Aplicación donde podras buscar el clima de tu ciudad o país.</li>
     <li><a href="https://github.com/Mirko1523/Proyect-Movies">Rating de peliculas</a> - Encuentra la opinión de los expertos de tus peliculas favoritas.</li>
+    <li><a href="https://github.com/Mirko1523/CriptoPriceApp">Crypto Price App</a> - Aplicación que muestra los cambios de valor de las criptomonedas más importantes</li>
 </ol>
 <br><br>
 <hr width="100%">
