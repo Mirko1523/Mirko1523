@@ -73,7 +73,7 @@
   <h3 style="font-size: 20px; color: #333333;">📁 Portafolio</h3>
   <a href="https://portafoliomilermirko.netlify.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
     <h3 style="font-size: 16px; color: #007bff;">Si estás interesado, visita mi Portafolio:</h3>
-    <a href="https://portafoliomilermirko.netlify.app/" target="_blank">
+    <a href="https://portafoliomirkomiler.netlify.app/" target="_blank">
       <img src="https://cdn-icons-png.freepik.com/512/4453/4453220.png" alt="Portfolio" height="40" style="display: block; margin: 10px auto; border-radius: 5px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);" />
     </a>
   </a>
