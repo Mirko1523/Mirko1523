@@ -59,7 +59,7 @@
 <br><br>
 <h3 align="left">Proyectos:</h3>
 <ol>
-    <li><a href="https://tazkorg.netlify.app">Tazk</a> - Anota y organiza tus tareas en cualquier parte del mundo.</li>
+<!--     <li><a href="https://tazkorg.netlify.app">Tazk</a> - Anota y organiza tus tareas en cualquier parte del mundo.</li> -->
     <li><a href="https://mkmagencyforall.netlify.app/">Mkm Agency</a> - Página creada para la Agencia Mkm Agency para ofrecer sus Servicios Informaticos.</li>
     <li><a href="https://siimingenieria.com/">Siim Ingenieria</a> - Aplicación para una empresa Ingeniera Internacional.</li>
     <li><a href="https://faascalablesp.netlify.app/">Faa Agency</a> - Pagina creada ha pedido de una agencia nacional dedicada al marketing digital.</li>
