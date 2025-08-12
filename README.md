@@ -65,6 +65,7 @@
     <li><a href="https://faascalablesp.netlify.app/">Faa Agency</a> - Pagina creada ha pedido de una agencia nacional dedicada al marketing digital.</li>
     <li><a href="https://criptoprice24hours.netlify.app/">Crypto Price App</a> - Aplicación que muestra los cambios de valor de las criptomonedas más importantes</li>
     <li><a href="https://fmascalable.netlify.app/">Fma Scalable</a> - Web para empresa nacional dedicada al marketing digital, crecion y diseños web.</li>
+  <li><a href="https://piedra-papel-tijeras-thegame.netlify.app/">Piedra, Papel, Tijera</a> - Mitico juego adaptado y publico para cualquier edad.</li>
 </ol>
 <br><br>
 <hr width="100%">
