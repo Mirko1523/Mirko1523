@@ -50,13 +50,14 @@
 <hr width="100%">
 <br>
 
-<p align="center">
+<!--<p align="center">
+    <br>-->
+    <img src="https://github-profile-trophy.vercel.app/?username=Mirko1523&column=7" alt="Trophy" />-->
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Mirko1523&column=7" alt="Trophy" />
-    <br>
-</p>
-<hr width="100%">
-<br><br>
+<!--</p>-->
+<!--<hr width="100%">-->
+<!--<br><br>-->
+
 <h3 align="left">Proyectos:</h3>
 <ol>
 <!--     <li><a href="https://tazkorg.netlify.app">Tazk</a> - Anota y organiza tus tareas en cualquier parte del mundo.</li> -->
