@@ -51,9 +51,9 @@
 <br>
 
 <!--<p align="center">
-    <br>-->
-    <img src="https://github-profile-trophy.vercel.app/?username=Mirko1523&column=7" alt="Trophy" />-->
-    <br>
+    <!--<br>-->
+   <!-- <img src="https://github-profile-trophy.vercel.app/?username=Mirko1523&column=7" alt="Trophy" /
+   <!-- <br> -->
 <!--</p>-->
 <!--<hr width="100%">-->
 <!--<br><br>-->
